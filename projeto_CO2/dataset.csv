@@ -1,0 +1,1001 @@
+id_set,nome_set,ano_set,co2_set
+1,Afghanistan,1850,
+2,Afghanistan,1851,
+3,Afghanistan,1852,
+4,Afghanistan,1853,
+5,"High-income countries",1909,2705.362
+6,"High-income countries",1910,2844.113
+7,Afghanistan,1854,
+8,"High-income countries",1911,2878.760
+9,Afghanistan,1855,
+10,"High-income countries",1912,3025.192
+11,Afghanistan,1856,
+12,"High-income countries",1913,3267.058
+13,"High-income countries",1914,2957.125
+14,Afghanistan,1857,
+15,"High-income countries",1915,2918.950
+16,Afghanistan,1858,
+17,Afghanistan,1859,
+18,"High-income countries",1916,3152.501
+19,"High-income countries",1917,3303.371
+20,Afghanistan,1860,
+21,"High-income countries",1918,3302.231
+22,Afghanistan,1861,
+23,"High-income countries",1919,2819.907
+24,"High-income countries",1920,3276.738
+25,Afghanistan,1862,
+26,Afghanistan,1863,
+27,"High-income countries",1921,2825.131
+28,Afghanistan,1864,
+29,"High-income countries",1922,2969.060
+30,Afghanistan,1865,
+31,"High-income countries",1923,3393.550
+32,Afghanistan,1866,
+33,"High-income countries",1924,3385.092
+34,Afghanistan,1867,
+35,"High-income countries",1925,3432.759
+36,Afghanistan,1868,
+37,Afghanistan,1869,
+38,"High-income countries",1926,3353.130
+39,Afghanistan,1870,
+40,"High-income countries",1927,3670.846
+41,"High-income countries",1928,3638.852
+42,Afghanistan,1871,
+43,"High-income countries",1929,3913.371
+44,"High-income countries",1930,3546.887
+45,Afghanistan,1872,
+46,Afghanistan,1873,
+47,Afghanistan,1874,
+48,"High-income countries",1931,3114.232
+49,Afghanistan,1875,
+50,"High-income countries",1932,2748.104
+51,Afghanistan,1876,
+52,"High-income countries",1933,2879.941
+53,Afghanistan,1877,
+54,"High-income countries",1934,3093.914
+55,Afghanistan,1878,
+56,Afghanistan,1879,
+57,"High-income countries",1935,3210.855
+58,Afghanistan,1880,
+59,"High-income countries",1936,3523.945
+60,Afghanistan,1881,
+61,"High-income countries",1937,3777.232
+62,"High-income countries",1938,3492.175
+63,Afghanistan,1882,
+64,"High-income countries",1939,3705.860
+65,Afghanistan,1883,
+66,Afghanistan,1884,
+67,Afghanistan,1885,
+68,"High-income countries",1940,4012.368
+69,"High-income countries",1941,4170.342
+70,Afghanistan,1886,
+71,"High-income countries",1942,4345.135
+72,"High-income countries",1943,4427.033
+73,Afghanistan,1887,
+74,"High-income countries",1944,4387.542
+75,Afghanistan,1888,
+76,"High-income countries",1945,3552.272
+77,"High-income countries",1946,3838.109
+78,"High-income countries",1947,4291.050
+79,"High-income countries",1948,4513.042
+80,Afghanistan,1889,
+81,Afghanistan,1890,
+82,"High-income countries",1949,4221.652
+83,Afghanistan,1891,
+84,"High-income countries",1950,4692.060
+85,Afghanistan,1892,
+86,"High-income countries",1951,5006.267
+87,Afghanistan,1893,
+88,"High-income countries",1952,4983.492
+89,Afghanistan,1894,
+90,"High-income countries",1953,5101.755
+91,Afghanistan,1895,
+92,"High-income countries",1954,5109.125
+93,Afghanistan,1896,
+94,"High-income countries",1955,5517.823
+95,Afghanistan,1897,
+96,Afghanistan,1898,
+97,Afghanistan,1899,
+98,"High-income countries",1956,5820.204
+99,Afghanistan,1900,
+100,Afghanistan,1901,
+101,"High-income countries",1957,5868.290
+102,Afghanistan,1902,
+103,Afghanistan,1903,
+104,"High-income countries",1958,5747.127
+105,Afghanistan,1904,
+106,Afghanistan,1905,
+107,"High-income countries",1959,5875.739
+108,Afghanistan,1906,
+109,Afghanistan,1907,
+110,"High-income countries",1960,6198.097
+111,Afghanistan,1908,
+112,"High-income countries",1961,6355.613
+113,Afghanistan,1909,
+114,"High-income countries",1962,6667.428
+115,"High-income countries",1963,7024.298
+116,Afghanistan,1910,
+117,"High-income countries",1964,7375.390
+118,"High-income countries",1965,7627.240
+119,Afghanistan,1911,
+120,Afghanistan,1912,
+121,"High-income countries",1966,7925.013
+122,Afghanistan,1913,
+123,"High-income countries",1967,8215.886
+124,Afghanistan,1914,
+125,"High-income countries",1968,8650.471
+126,Afghanistan,1915,
+127,"High-income countries",1969,9211.455
+128,Afghanistan,1916,
+129,Afghanistan,1917,
+130,"High-income countries",1970,9896.441
+131,"High-income countries",1971,10103.867
+132,Afghanistan,1918,
+133,Afghanistan,1919,
+134,Afghanistan,1920,
+135,Afghanistan,1921,
+136,Afghanistan,1922,
+137,Afghanistan,1923,
+138,Afghanistan,1924,
+139,Afghanistan,1925,
+140,Afghanistan,1926,
+141,Afghanistan,1927,
+142,Afghanistan,1928,
+143,Afghanistan,1929,
+144,Afghanistan,1930,
+145,Afghanistan,1931,
+146,Afghanistan,1932,
+147,Afghanistan,1933,
+148,Afghanistan,1934,
+149,Afghanistan,1935,
+150,Afghanistan,1936,
+151,Afghanistan,1937,
+152,Afghanistan,1938,
+153,Afghanistan,1939,
+154,Afghanistan,1940,
+155,Afghanistan,1941,
+156,Afghanistan,1942,
+157,Afghanistan,1943,
+158,Afghanistan,1944,
+159,Afghanistan,1945,
+160,Afghanistan,1946,
+161,Afghanistan,1947,
+162,Afghanistan,1948,
+163,Afghanistan,1949,0.015
+164,Afghanistan,1950,0.084
+165,Afghanistan,1951,0.092
+166,Afghanistan,1952,0.092
+167,Afghanistan,1953,0.106
+168,Afghanistan,1954,0.106
+169,Afghanistan,1955,0.154
+170,Afghanistan,1956,0.183
+171,Afghanistan,1957,0.293
+172,Afghanistan,1958,0.330
+173,Afghanistan,1959,0.385
+174,Afghanistan,1960,0.414
+175,Afghanistan,1961,0.491
+176,Afghanistan,1962,0.689
+177,Afghanistan,1963,0.707
+178,Afghanistan,1964,0.839
+179,Afghanistan,1965,1.007
+180,Afghanistan,1966,1.091
+181,"High-income countries",1972,10550.914
+182,"High-income countries",1973,11083.438
+183,"High-income countries",1974,10854.912
+184,"High-income countries",1975,10582.912
+185,"High-income countries",1976,11243.688
+186,"High-income countries",1977,11425.807
+187,"High-income countries",1978,11619.623
+188,"High-income countries",1979,11963.408
+189,"High-income countries",1980,11712.913
+190,"High-income countries",1981,11320.024
+191,"High-income countries",1982,10909.640
+192,"High-income countries",1983,10833.078
+193,"High-income countries",1984,11212.107
+194,"High-income countries",1985,11304.441
+195,"High-income countries",1986,11339.210
+196,"High-income countries",1987,11565.853
+197,"High-income countries",1988,11938.957
+198,"High-income countries",1989,12179.332
+199,"High-income countries",1990,12406.663
+200,"High-income countries",1991,12895.470
+201,"High-income countries",1992,12521.000
+202,"High-income countries",1993,12644.521
+203,"High-income countries",1994,12836.626
+204,"High-income countries",1995,12930.337
+205,"High-income countries",1996,13322.986
+206,"High-income countries",1997,13356.449
+207,"High-income countries",1998,13317.290
+208,"High-income countries",1999,13471.569
+209,"High-income countries",2000,13912.352
+210,"High-income countries",2001,13873.039
+211,"High-income countries",2002,13982.792
+212,"High-income countries",2003,14240.575
+213,"High-income countries",2004,14453.896
+214,"High-income countries",2005,14498.888
+215,"High-income countries",2006,14501.600
+216,"High-income countries",2007,14618.097
+217,"High-income countries",2008,14320.563
+218,"High-income countries",2009,13456.931
+219,"High-income countries",2010,14012.835
+220,"High-income countries",2011,13812.016
+221,"High-income countries",2012,13746.412
+222,"High-income countries",2013,13761.052
+223,"High-income countries",2014,13630.158
+224,"High-income countries",2015,13592.980
+225,"High-income countries",2016,13374.081
+226,Afghanistan,1967,1.282
+227,Afghanistan,1968,1.223
+228,"High-income countries",2017,13376.209
+229,"High-income countries",2018,13435.593
+230,Afghanistan,1969,0.941
+231,"High-income countries",2019,13127.934
+232,"High-income countries",2020,12024.246
+233,Afghanistan,1970,1.670
+234,Afghanistan,1971,1.894
+235,Afghanistan,1972,1.530
+236,Afghanistan,1973,1.635
+237,Afghanistan,1974,1.913
+238,Afghanistan,1975,2.121
+239,Afghanistan,1976,1.981
+240,Afghanistan,1977,2.384
+241,Afghanistan,1978,2.153
+242,Afghanistan,1979,2.233
+243,Afghanistan,1980,1.756
+244,Afghanistan,1981,1.978
+245,Afghanistan,1982,2.095
+246,Afghanistan,1983,2.520
+247,Afghanistan,1984,2.822
+248,Afghanistan,1985,3.501
+249,"High-income countries",2021,12608.317
+250,Honduras,1850,
+251,Honduras,1851,
+252,Honduras,1852,
+253,Honduras,1853,
+254,Honduras,1854,
+255,Afghanistan,1986,3.134
+256,Honduras,1855,
+257,Honduras,1856,
+258,Afghanistan,1987,3.114
+259,Honduras,1857,
+260,Afghanistan,1988,2.857
+261,Honduras,1858,
+262,Honduras,1859,
+263,Afghanistan,1989,2.765
+264,Honduras,1860,
+265,Afghanistan,1990,2.024
+266,Honduras,1861,
+267,Afghanistan,1991,1.914
+268,Afghanistan,1992,1.482
+269,Afghanistan,1993,1.487
+270,Afghanistan,1994,1.454
+271,Afghanistan,1995,1.417
+272,Afghanistan,1996,1.370
+273,Afghanistan,1997,1.304
+274,Afghanistan,1998,1.279
+275,Afghanistan,1999,1.092
+276,Afghanistan,2000,1.047
+277,Afghanistan,2001,1.069
+278,Afghanistan,2002,1.341
+279,Afghanistan,2003,1.560
+280,Afghanistan,2004,1.237
+281,Afghanistan,2005,1.890
+282,Afghanistan,2006,2.159
+283,Afghanistan,2007,2.800
+284,Afghanistan,2008,4.254
+285,Honduras,1862,
+286,Honduras,1863,
+287,Honduras,1864,
+288,Honduras,1865,
+289,Honduras,1866,
+290,Afghanistan,2009,6.392
+291,Honduras,1867,
+292,Afghanistan,2010,8.365
+293,Afghanistan,2011,11.838
+294,Honduras,1868,
+295,Honduras,1869,
+296,Afghanistan,2012,10.035
+297,Honduras,1870,
+298,Afghanistan,2013,9.251
+299,Honduras,1871,
+300,Honduras,1872,
+301,Afghanistan,2014,9.170
+302,Honduras,1873,
+303,Honduras,1874,
+304,Afghanistan,2015,9.791
+305,Honduras,1875,
+306,Afghanistan,2016,9.068
+307,Honduras,1876,
+308,Afghanistan,2017,9.868
+309,Honduras,1877,
+310,Honduras,1878,
+311,Afghanistan,2018,10.818
+312,Honduras,1879,
+313,Afghanistan,2019,11.082
+314,Honduras,1880,
+315,Honduras,1881,
+316,Honduras,1882,
+317,Afghanistan,2020,11.682
+318,Honduras,1883,
+319,Honduras,1884,
+320,Afghanistan,2021,11.874
+321,Honduras,1885,
+322,Honduras,1886,
+323,Africa,1850,0.000
+324,Africa,1851,0.000
+325,Honduras,1887,
+326,Honduras,1888,
+327,Honduras,1889,
+328,Honduras,1890,
+329,Honduras,1891,
+330,Africa,1852,0.000
+331,Honduras,1892,
+332,Africa,1853,0.000
+333,Honduras,1893,
+334,Honduras,1894,
+335,Africa,1854,0.000
+336,Honduras,1895,
+337,Africa,1855,0.000
+338,Honduras,1896,
+339,Africa,1856,0.000
+340,Honduras,1897,
+341,Honduras,1898,
+342,Africa,1857,0.000
+343,Honduras,1899,
+344,Africa,1858,0.000
+345,Honduras,1900,
+346,Africa,1859,0.000
+347,Honduras,1901,
+348,Africa,1860,0.000
+349,Honduras,1902,
+350,Africa,1861,0.000
+351,Honduras,1903,
+352,Africa,1862,0.000
+353,Africa,1863,0.000
+354,Honduras,1904,
+355,Honduras,1905,
+356,Africa,1864,0.000
+357,Honduras,1906,
+358,Africa,1865,0.000
+359,Africa,1866,0.000
+360,Honduras,1907,
+361,Africa,1867,0.000
+362,Honduras,1908,
+363,Africa,1868,0.000
+364,Africa,1869,0.000
+365,Honduras,1909,
+366,Africa,1870,0.000
+367,Honduras,1910,
+368,Africa,1871,0.000
+369,Africa,1872,0.000
+370,Africa,1873,0.000
+371,Honduras,1911,
+372,Honduras,1912,
+373,Africa,1874,0.000
+374,Africa,1875,0.000
+375,Honduras,1913,
+376,Africa,1876,0.000
+377,Honduras,1914,
+378,Africa,1877,0.000
+379,Honduras,1915,
+380,Honduras,1916,
+381,Honduras,1917,
+382,Honduras,1918,
+383,Honduras,1919,
+384,Honduras,1920,
+385,Honduras,1921,
+386,Honduras,1922,
+387,Honduras,1923,
+388,Honduras,1924,
+389,Honduras,1925,
+390,Honduras,1926,
+391,Honduras,1927,
+392,Honduras,1928,
+393,Honduras,1929,
+394,Honduras,1930,
+395,Africa,1878,0.000
+396,Africa,1879,0.000
+397,Africa,1880,0.000
+398,Africa,1881,0.000
+399,Africa,1882,0.000
+400,Africa,1883,0.000
+401,Africa,1884,0.022
+402,Africa,1885,0.037
+403,Honduras,1931,
+404,Africa,1886,0.048
+405,Honduras,1932,
+406,Honduras,1933,
+407,Africa,1887,0.048
+408,Honduras,1934,
+409,Honduras,1935,
+410,Africa,1888,0.081
+411,Honduras,1936,
+412,Africa,1889,0.132
+413,Honduras,1937,
+414,Honduras,1938,
+415,Africa,1890,0.297
+416,Honduras,1939,
+417,Honduras,1940,
+418,Africa,1891,0.297
+419,Honduras,1941,
+420,Africa,1892,0.480
+421,Honduras,1942,
+422,Honduras,1943,
+423,Honduras,1944,
+424,Africa,1893,1.799
+425,Honduras,1945,
+426,Africa,1894,2.433
+427,Africa,1895,3.338
+428,Honduras,1946,
+429,Honduras,1947,
+430,Africa,1896,4.258
+431,Honduras,1948,
+432,Honduras,1949,
+433,Africa,1897,4.778
+434,Africa,1898,6.049
+435,Honduras,1950,0.300
+436,Africa,1899,5.518
+437,Honduras,1951,0.348
+438,Africa,1900,2.330
+439,Honduras,1952,0.359
+440,Honduras,1953,0.333
+441,Honduras,1954,0.377
+442,Honduras,1955,0.436
+443,Honduras,1956,0.454
+444,Africa,1901,3.909
+445,Honduras,1957,0.575
+446,Africa,1902,5.826
+447,Africa,1903,7.896
+448,Africa,1904,8.911
+449,Honduras,1958,0.586
+450,Africa,1905,10.263
+451,Honduras,1959,0.586
+452,Africa,1906,11.717
+453,Honduras,1960,0.615
+454,Africa,1907,12.930
+455,Honduras,1961,0.736
+456,Africa,1908,13.403
+457,Honduras,1962,0.700
+458,Africa,1909,15.385
+459,Honduras,1963,0.711
+460,Africa,1910,17.411
+461,Honduras,1964,0.722
+462,Africa,1911,16.865
+463,Honduras,1965,0.751
+464,Honduras,1966,0.806
+465,Africa,1912,17.954
+466,Honduras,1967,0.875
+467,Africa,1913,19.606
+468,Africa,1914,19.551
+469,Honduras,1968,1.223
+470,Africa,1915,19.606
+471,Honduras,1969,1.176
+472,Africa,1916,23.255
+473,Honduras,1970,1.388
+474,Africa,1917,25.344
+475,Honduras,1971,1.329
+476,Honduras,1972,1.533
+477,Africa,1918,24.725
+478,Honduras,1973,1.506
+479,Africa,1919,25.443
+480,Africa,1920,28.052
+481,Honduras,1974,1.553
+482,Honduras,1975,1.661
+483,Africa,1921,27.986
+484,Honduras,1976,1.771
+485,Honduras,1977,1.993
+486,Honduras,1978,2.039
+487,Honduras,1979,1.923
+488,Africa,1922,23.970
+489,Honduras,1980,2.038
+490,Africa,1923,29.045
+491,Honduras,1981,1.808
+492,Honduras,1982,1.749
+493,Africa,1924,30.631
+494,Honduras,1983,1.976
+495,Africa,1925,32.185
+496,Africa,1926,34.438
+497,Honduras,1984,1.957
+498,Honduras,1985,1.886
+499,Africa,1927,33.841
+500,Honduras,1986,1.825
+501,Africa,1928,34.770
+502,Honduras,1987,2.144
+503,Honduras,1988,2.465
+504,Africa,1929,35.802
+505,Honduras,1989,2.680
+506,Africa,1930,33.696
+507,Honduras,1990,2.505
+508,Honduras,1991,2.527
+509,Africa,1931,29.464
+510,Africa,1932,26.623
+511,Honduras,1992,2.803
+512,Honduras,1993,2.941
+513,Honduras,1994,3.231
+514,Honduras,1995,3.836
+515,Africa,1933,28.491
+516,Africa,1934,32.539
+517,Africa,1935,35.910
+518,Africa,1936,39.016
+519,Africa,1937,41.844
+520,Africa,1938,44.013
+521,Africa,1939,46.853
+522,Africa,1940,49.649
+523,Africa,1941,54.023
+524,Africa,1942,58.823
+525,Honduras,1996,3.876
+526,Honduras,1997,4.010
+527,Honduras,1998,4.811
+528,Honduras,1999,4.705
+529,Honduras,2000,5.032
+530,Honduras,2001,5.665
+531,Honduras,2002,5.945
+532,Honduras,2003,6.687
+533,Honduras,2004,7.194
+534,Honduras,2005,6.835
+535,Honduras,2006,7.698
+536,Honduras,2007,8.216
+537,Honduras,2008,8.533
+538,Honduras,2009,8.030
+539,Honduras,2010,7.997
+540,Honduras,2011,8.860
+541,Honduras,2012,9.218
+542,Honduras,2013,9.365
+543,Honduras,2014,9.481
+544,Honduras,2015,10.348
+545,Honduras,2016,9.722
+546,Honduras,2017,10.231
+547,Honduras,2018,9.861
+548,Honduras,2019,11.232
+549,Honduras,2020,9.844
+550,Honduras,2021,10.898
+551,"Hong Kong",1850,
+552,"Hong Kong",1851,
+553,"Hong Kong",1852,
+554,"Hong Kong",1853,
+555,"Hong Kong",1854,
+556,"Hong Kong",1855,
+557,Africa,1943,60.120
+558,"Hong Kong",1856,
+559,Africa,1944,66.633
+560,"Hong Kong",1857,
+561,Africa,1945,67.527
+562,"Hong Kong",1858,
+563,Africa,1946,68.159
+564,"Hong Kong",1859,
+565,Africa,1947,67.935
+566,"Hong Kong",1860,
+567,Africa,1948,71.733
+568,"Hong Kong",1861,
+569,Africa,1949,77.324
+570,"Hong Kong",1862,
+571,"Hong Kong",1863,
+572,"Hong Kong",1864,
+573,Africa,1950,93.452
+574,"Hong Kong",1865,
+575,Africa,1951,99.862
+576,"Hong Kong",1866,
+577,Africa,1952,108.882
+578,"Hong Kong",1867,
+579,Africa,1953,110.796
+580,"Hong Kong",1868,
+581,Africa,1954,116.157
+582,Africa,1955,128.058
+583,"Hong Kong",1869,
+584,Africa,1956,133.509
+585,Africa,1957,139.953
+586,"Hong Kong",1870,
+587,Africa,1958,148.305
+588,"Hong Kong",1871,
+589,Africa,1959,147.911
+590,"Hong Kong",1872,
+591,"Hong Kong",1873,
+592,"Hong Kong",1874,
+593,Africa,1960,156.640
+594,"Hong Kong",1875,
+595,Africa,1961,162.079
+596,"Hong Kong",1876,
+597,Africa,1962,166.426
+598,"Hong Kong",1877,
+599,"Hong Kong",1878,
+600,Africa,1963,176.448
+601,"Hong Kong",1879,
+602,Africa,1964,193.764
+603,Africa,1965,213.785
+604,"Hong Kong",1880,
+605,Africa,1966,221.262
+606,"Hong Kong",1881,
+607,Africa,1967,237.258
+608,"Hong Kong",1882,
+609,Africa,1968,257.600
+610,"Hong Kong",1883,
+611,Africa,1969,278.139
+612,"Hong Kong",1884,
+613,Africa,1970,302.943
+614,"Hong Kong",1885,
+615,Africa,1971,332.204
+616,"Hong Kong",1886,
+617,"Hong Kong",1887,
+618,Africa,1972,352.239
+619,"Hong Kong",1888,
+620,Africa,1973,378.421
+621,"Hong Kong",1889,
+622,Africa,1974,388.865
+623,Africa,1975,387.829
+624,Africa,1976,420.857
+625,Africa,1977,433.845
+626,Africa,1978,463.267
+627,Africa,1979,499.992
+628,Africa,1980,536.490
+629,Africa,1981,549.365
+630,Africa,1982,572.577
+631,Africa,1983,595.413
+632,Africa,1984,650.254
+633,Africa,1985,666.655
+634,Africa,1986,690.671
+635,Africa,1987,690.763
+636,Africa,1988,726.007
+637,Africa,1989,699.179
+638,Africa,1990,659.297
+639,"Hong Kong",1890,
+640,Africa,1991,688.954
+641,"Hong Kong",1891,
+642,Africa,1992,668.606
+643,"Hong Kong",1892,
+644,Africa,1993,708.741
+645,"Hong Kong",1893,
+646,"Hong Kong",1894,
+647,"Hong Kong",1895,
+648,Africa,1994,719.465
+649,"Hong Kong",1896,
+650,Africa,1995,771.882
+651,"Hong Kong",1897,
+652,Africa,1996,783.332
+653,"Hong Kong",1898,
+654,Africa,1997,812.606
+655,"Hong Kong",1899,
+656,Africa,1998,837.844
+657,"Hong Kong",1900,
+658,Africa,1999,830.411
+659,"Hong Kong",1901,
+660,Africa,2000,886.403
+661,"Hong Kong",1902,
+662,"Hong Kong",1903,
+663,"Hong Kong",1904,
+664,Africa,2001,884.000
+665,Africa,2002,892.559
+666,"Hong Kong",1905,
+667,Africa,2003,967.170
+668,"Hong Kong",1906,
+669,Africa,2004,1036.637
+670,"Hong Kong",1907,
+671,Africa,2005,1057.361
+672,"Hong Kong",1908,
+673,"Hong Kong",1909,
+674,"Hong Kong",1910,
+675,"Hong Kong",1911,
+676,"Hong Kong",1912,
+677,"Hong Kong",1913,
+678,"Hong Kong",1914,
+679,"Hong Kong",1915,
+680,"Hong Kong",1916,
+681,"Hong Kong",1917,
+682,"Hong Kong",1918,
+683,"Hong Kong",1919,
+684,"Hong Kong",1920,
+685,"Hong Kong",1921,
+686,"Hong Kong",1922,
+687,"Hong Kong",1923,
+688,"Hong Kong",1924,
+689,"Hong Kong",1925,
+690,"Hong Kong",1926,
+691,Africa,2006,1090.145
+692,"Hong Kong",1927,
+693,Africa,2007,1132.287
+694,"Hong Kong",1928,
+695,Africa,2008,1181.175
+696,"Hong Kong",1929,
+697,Africa,2009,1171.780
+698,"Hong Kong",1930,
+699,Africa,2010,1214.749
+700,"Hong Kong",1931,
+701,Africa,2011,1251.306
+702,"Hong Kong",1932,
+703,Africa,2012,1259.537
+704,"Hong Kong",1933,
+705,Africa,2013,1268.892
+706,"Hong Kong",1934,
+707,"Hong Kong",1935,
+708,"Hong Kong",1936,
+709,"Hong Kong",1937,
+710,"Hong Kong",1938,0.055
+711,"Hong Kong",1939,0.055
+712,"Hong Kong",1940,
+713,"Hong Kong",1941,0.055
+714,"Hong Kong",1942,
+715,"Hong Kong",1943,
+716,"Hong Kong",1944,
+717,"Hong Kong",1945,
+718,"Hong Kong",1946,
+719,"Hong Kong",1947,0.018
+720,"Hong Kong",1948,0.025
+721,"Hong Kong",1949,0.029
+722,"Hong Kong",1950,1.319
+723,"Hong Kong",1951,1.557
+724,"Hong Kong",1952,1.535
+725,"Hong Kong",1953,1.729
+726,"Hong Kong",1954,1.799
+727,"Hong Kong",1955,1.879
+728,"Hong Kong",1956,2.121
+729,"Hong Kong",1957,2.363
+730,Africa,2014,1350.089
+731,Africa,2015,1323.759
+732,Africa,2016,1363.459
+733,Africa,2017,1379.490
+734,Africa,2018,1366.411
+735,Africa,2019,1467.492
+736,Africa,2020,1385.889
+737,Africa,2021,1450.796
+738,Albania,1850,
+739,Albania,1851,
+740,Albania,1852,
+741,Albania,1853,
+742,Albania,1854,
+743,Albania,1855,
+744,Albania,1856,
+745,Albania,1857,
+746,Albania,1858,
+747,Albania,1859,
+748,Albania,1860,
+749,Albania,1861,
+750,Albania,1862,
+751,Albania,1863,
+752,Albania,1864,
+753,Albania,1865,
+754,Albania,1866,
+755,Albania,1867,
+756,Albania,1868,
+757,Albania,1869,
+758,Albania,1870,
+759,Albania,1871,
+760,Albania,1872,
+761,Albania,1873,
+762,Albania,1874,
+763,Albania,1875,
+764,Albania,1876,
+765,Albania,1877,
+766,Albania,1878,
+767,"Hong Kong",1958,2.374
+768,Albania,1879,
+769,"Hong Kong",1959,2.703
+770,Albania,1880,
+771,"Hong Kong",1960,2.953
+772,Albania,1881,
+773,"Hong Kong",1961,3.370
+774,Albania,1882,
+775,"Hong Kong",1962,3.681
+776,Albania,1883,
+777,"Hong Kong",1963,4.246
+778,Albania,1884,
+779,"Hong Kong",1964,4.220
+780,"Hong Kong",1965,4.803
+781,"Hong Kong",1966,5.162
+782,"Hong Kong",1967,6.052
+783,"Hong Kong",1968,6.198
+784,"Hong Kong",1969,7.752
+785,Albania,1885,
+786,"Hong Kong",1970,8.392
+787,Albania,1886,
+788,"Hong Kong",1971,9.151
+789,Albania,1887,
+790,"Hong Kong",1972,9.276
+791,Albania,1888,
+792,"Hong Kong",1973,9.286
+793,Albania,1889,
+794,"Hong Kong",1974,10.667
+795,Albania,1890,
+796,"Hong Kong",1975,11.008
+797,Albania,1891,
+798,"Hong Kong",1976,12.490
+799,Albania,1892,
+800,Albania,1893,
+801,"Hong Kong",1977,14.204
+802,Albania,1894,
+803,"Hong Kong",1978,15.714
+804,Albania,1895,
+805,"Hong Kong",1979,15.838
+806,Albania,1896,
+807,"Hong Kong",1980,16.600
+808,Albania,1897,
+809,Albania,1898,
+810,Albania,1899,
+811,"Hong Kong",1981,18.617
+812,Albania,1900,
+813,"Hong Kong",1982,19.623
+814,"Hong Kong",1983,20.912
+815,"Hong Kong",1984,22.225
+816,"Hong Kong",1985,22.881
+817,"Hong Kong",1986,25.526
+818,Albania,1901,
+819,Albania,1902,
+820,Albania,1903,
+821,Albania,1904,
+822,Albania,1905,
+823,Albania,1906,
+824,Albania,1907,
+825,Albania,1908,
+826,Albania,1909,
+827,Albania,1910,
+828,Albania,1911,
+829,Albania,1912,
+830,Albania,1913,
+831,Albania,1914,
+832,Albania,1915,
+833,Albania,1916,
+834,Albania,1917,
+835,Albania,1918,
+836,Albania,1919,
+837,Albania,1920,
+838,Albania,1921,
+839,Albania,1922,
+840,Albania,1923,
+841,Albania,1924,
+842,Albania,1925,
+843,Albania,1926,
+844,Albania,1927,
+845,Albania,1928,
+846,Albania,1929,
+847,Albania,1930,
+848,Albania,1931,
+849,Albania,1932,
+850,Albania,1933,0.007
+851,Albania,1934,0.007
+852,Albania,1935,0.018
+853,Albania,1936,0.128
+854,Albania,1937,0.297
+855,Albania,1938,0.348
+856,Albania,1939,0.432
+857,Albania,1940,0.692
+858,Albania,1941,0.626
+859,Albania,1942,0.744
+860,Albania,1943,0.462
+861,Albania,1944,0.154
+862,Albania,1945,0.121
+863,Albania,1946,0.484
+864,Albania,1947,0.927
+865,Albania,1948,0.703
+866,Albania,1949,1.015
+867,Albania,1950,0.297
+868,Albania,1951,0.403
+869,Albania,1952,0.374
+870,Albania,1953,0.414
+871,Albania,1954,0.502
+872,Albania,1955,0.663
+873,Albania,1956,0.839
+874,Albania,1957,1.506
+875,Albania,1958,1.201
+876,"Hong Kong",1987,28.086
+877,"Hong Kong",1988,29.285
+878,"Hong Kong",1989,30.141
+879,"Hong Kong",1990,27.148
+880,"Hong Kong",1991,28.463
+881,"Hong Kong",1992,32.919
+882,"Hong Kong",1993,34.778
+883,"Hong Kong",1994,31.079
+884,"Hong Kong",1995,31.267
+885,"Hong Kong",1996,28.909
+886,"Hong Kong",1997,30.497
+887,"Hong Kong",1998,38.925
+888,"Hong Kong",1999,42.549
+889,"Hong Kong",2000,40.283
+890,"Hong Kong",2001,37.802
+891,"Hong Kong",2002,39.485
+892,"Hong Kong",2003,43.202
+893,"Hong Kong",2004,41.569
+894,"Hong Kong",2005,43.731
+895,"Hong Kong",2006,41.915
+896,"Hong Kong",2007,43.572
+897,"Hong Kong",2008,42.791
+898,"Hong Kong",2009,41.579
+899,"Hong Kong",2010,40.063
+900,"Hong Kong",2011,43.150
+901,"Hong Kong",2012,42.742
+902,"Hong Kong",2013,44.307
+903,"Hong Kong",2014,45.492
+904,"Hong Kong",2015,42.400
+905,"Hong Kong",2016,43.366
+906,"Hong Kong",2017,42.431
+907,"Hong Kong",2018,42.601
+908,"Hong Kong",2019,41.900
+909,"Hong Kong",2020,31.505
+910,Albania,1959,1.443
+911,Albania,1960,2.022
+912,Albania,1961,2.279
+913,Albania,1962,2.462
+914,Albania,1963,2.081
+915,Albania,1964,2.015
+916,Albania,1965,2.172
+917,"Hong Kong",2021,31.664
+918,Albania,1966,2.550
+919,Hungary,1850,
+920,Hungary,1851,0.275
+921,Albania,1967,2.677
+922,Hungary,1852,0.344
+923,Hungary,1853,0.344
+924,Hungary,1854,0.436
+925,Hungary,1855,0.454
+926,Hungary,1856,0.476
+927,Hungary,1857,0.546
+928,Hungary,1858,0.381
+929,Hungary,1859,0.769
+930,Hungary,1860,0.905
+931,Hungary,1861,0.960
+932,Hungary,1862,1.158
+933,Hungary,1863,1.209
+934,Hungary,1864,1.209
+935,Hungary,1865,1.257
+936,Hungary,1866,1.429
+937,Hungary,1867,1.689
+938,Hungary,1868,1.806
+939,Hungary,1869,1.964
+940,Albania,1968,3.069
+941,Hungary,1870,2.121
+942,Hungary,1871,2.631
+943,Hungary,1872,2.796
+944,Hungary,1873,2.917
+945,Albania,1969,3.241
+946,Hungary,1874,2.557
+947,Albania,1970,3.739
+948,Hungary,1875,2.634
+949,Albania,1971,4.348
+950,Hungary,1876,2.763
+951,Albania,1972,5.638
+952,Hungary,1877,2.887
+953,Albania,1973,5.286
+954,Hungary,1878,2.876
+955,Albania,1974,4.342
+956,Hungary,1879,2.869
+957,Albania,1975,4.591
+958,Hungary,1880,3.312
+959,Albania,1976,4.947
+960,Albania,1977,5.717
+961,Hungary,1881,3.550
+962,Albania,1978,6.491
+963,Hungary,1882,3.583
+964,Hungary,1883,4.078
+965,Hungary,1884,4.331
+966,Albania,1979,7.584
+967,Hungary,1885,4.378
+968,Hungary,1886,4.096
+969,Albania,1980,5.171
+970,Hungary,1887,4.085
+971,Albania,1981,7.340
+972,Hungary,1888,4.430
+973,Albania,1982,7.308
+974,Albania,1983,7.631
+975,Albania,1984,7.826
+976,Hungary,1889,4.752
+977,Hungary,1890,5.254
+978,Hungary,1891,5.522
+979,Hungary,1892,5.752
+980,Hungary,1893,5.994
+981,Albania,1985,7.882
+982,Hungary,1894,6.434
+983,Albania,1986,8.058
+984,Hungary,1895,6.863
+985,Albania,1987,7.447
+986,Hungary,1896,7.376
+987,Albania,1988,7.329
+988,Hungary,1897,7.464
+989,Albania,1989,8.986
+990,Hungary,1898,8.533
+991,Albania,1990,5.521
+992,Hungary,1899,8.273
+993,Albania,1991,4.290
+994,Hungary,1900,9.585
+995,Albania,1992,2.517
+996,Hungary,1901,9.618
+997,Albania,1993,2.338
+998,Hungary,1902,8.849
+999,Hungary,1903,9.175
+1000,Hungary,1904,9.277
